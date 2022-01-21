@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ForecastApp</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="hintCity">City name</string>
+    <string name="btnLookup">LOOKUP</string>
+    <string name="txtClouds">Clouds</string>
+    <string name="weather_details_feelslike">Feels like: %.2f</string>
+    <string name="generalError">There is an error, please try again later.</string>
+</resources>
